@@ -1,0 +1,23 @@
+{
+  "name": "using_libr_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gronik4/using_libr_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gronik4/using_libr_node/issues"
+  },
+  "homepage": "https://github.com/Gronik4/using_libr_node#readme",
+  "dependencies": {
+    "@gronik4/ajs_libr": "^1.0.0"
+  }
+}
